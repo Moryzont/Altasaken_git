@@ -1,0 +1,40 @@
+To do: 
+
+Oppdatere korpus for å forhåpentligvis få inn nyere funn
+Omskrive metode
+Få inn det nye spørsmålet
+Oppdatere grafer til å svare på spørsmålet
+TV- driver avisene? -- artig 
+
+Metode
+* metode og data bør det være
+* Flytte noe til teori
+	* Ser ut til å stemme når vi sjekker manuelt -- VESENTLIG POENG
+* Vise mer i diskusjonen hvordan det blir annvendt
+* Vise manuell sjekking 
+
+Grafer: 
+* Samesaken som baseline på alle grafer (når det funker)
+* Beholde farger 
+
+Fun "facts":
+Nasjonalt: setter agendaen
+Regionalt: Blir forsmådd
+Lokalt: blir traumatisert
+
+Problemstilling, for vid:
+* Kutte den ned til å bare se på homogenenisering? 
+	* polarisering eller homogenisering? 
+		* Hvordan se polarisering ?? 
+		* Ser ut til å være homogent tematisk (samesak)
+			* polarisering innad i tema 
+	* Variasjon? 
+		* Regionale 
+		* Redaksjonelle 
+* Er metoden passende for analysen? 
+
+RQ 1: Altasaken homogenisering "What could explain homoganization in the Alta controversy in norwegian newspapers?"
+RQ 2: Passer metoden "Is natural language models suitable for labeling historical newspaper text?" 
+
+1,0.91,0.89,0.5
+1,0.91,
